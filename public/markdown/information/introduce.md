@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 운동선수 출신으로 강한 체력과 학습능력을 갖추고 있습니다.
+- 동아대학교 컴퓨터공학과
+- 학점: 4.06 / 4.5

@@ -9,7 +9,8 @@ const Information = ({ information }: Pick<DataProps, "information">) => {
       <div className="flex flex-col gap-2">
         <h1 className="leading-[1.15]">
           {/* 포지션에 맞게 문구를 수정해주세요. 혹은, 본인이 원하는 대로 문구를 바꿔주세요. */}
-          안녕하세요, 모두의 일상생활을 편하게 만들고 싶은
+          안녕하세요, 
+          <br /> 일상생활을 편하게 만들고 싶은
           <br /> 백엔드 개발자{" "}
           <span className="text-PRIMARY font-semibold">{information.name}</span>
           입니다.

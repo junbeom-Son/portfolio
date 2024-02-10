@@ -48,7 +48,7 @@
     {
       "id": 2,
       "name": "Toastmasters",
-      "period": ["2023. 04"],
+      "period": ["2023. 04 ~ "],
       "description": "미국에 본사를 둔 비영리 교육 기관\n커뮤니케이션, 대중 연설 및 리더십 증진을 목적으로 전 세계적으로 운영중인 모임"
     }
   ],
@@ -65,6 +65,12 @@
       "name": "금융 SW 아카데미",
       "period": ["2023. 02", "2023. 08"],
       "description": "6개월 950시간 풀스택 개발자 양성과정\nJava, JavaScript, SQL 등과 같은 기본적인 프로그래밍 학습\n학습한 언어들을 활용한 다양한 framework 학습 -> Spring/Spring Boot, React.js 등\n학습한 언어, framework를 활용한 프로젝트 진행"
+    },
+    {
+      "id": 2,
+      "name": "SSAFY - Samsum SW Academy For Youth",
+      "period": ["2024. 01", "2024. 12"],
+      "description": "삼성에서 진행하는 SW 교육으로 웹개발 풀스택 교육 및 알고리즘 교육을 통해 개발자 양성"
     }
   ],
 
@@ -77,27 +83,33 @@
     },
     {
       "id": 1,
-      "name": "OPIC IH",
-      "date": "2022. 01. 29",
-      "organizer": "ACTFL"
-    },
-    {
-      "id": 2,
       "name": "정보처리기사",
       "date": "2022. 06. 17",
       "organizer": "한국산업인력공단"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "SQLD",
       "date": "2023. 04. 14",
       "organizer": "한국데이터산업진흥원"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "TOEIC 935",
       "date": "2023. 07. 30",
       "organizer": "ETS"
+    },
+    {
+      "id": 4,
+      "name": "PCCP Lv.2",
+      "date": "2023. 09. 10",
+      "organizer": "Programmers"
+    },
+    {
+      "id": 5,
+      "name": "OPIC IH",
+      "date": "2024. 01. 31",
+      "organizer": "ACTFL"
     }
   ]
 }
